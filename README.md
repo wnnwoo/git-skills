@@ -1,3 +1,3 @@
 # git-skills
 
-Create a new branch is qick
+Create a new branch is qick AND simple
